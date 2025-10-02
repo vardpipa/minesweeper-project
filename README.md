@@ -2,4 +2,4 @@
 <img src=screenshot.PNG>
 Проект самого сапёра для ознакомления
 # Установка
-Не скачивайте файлы через zip иначе файлы повредяться, для установки используйте **Git Bash** командой:<br>`git clone https://github.com/vardpipa/the-shooter.git`.<br>
+Не скачивайте файлы через zip иначе файлы повредяться, для установки используйте **Git Bash** командой:<br>`git clone https://github.com/vardpipa/minesweeper-project.git`.
