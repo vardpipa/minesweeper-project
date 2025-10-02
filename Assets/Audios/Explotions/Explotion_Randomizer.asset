@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &2100815276703480572
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: explotionMP3_2_{2100815276703480572}
+  m_AudioClip: {fileID: 8300000, guid: 761b5ac5c8d328d4bb23ed1013b46c6b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4185152089677638627
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: explotionMP3_3_{4185152089677638627}
+  m_AudioClip: {fileID: 8300000, guid: 0e79c0090207f55489c130943f1fa7e6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Explotion_Randomizer
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 8573922587715139279}
+  - {fileID: 2100815276703480572}
+  - {fileID: 4185152089677638627}
+  - {fileID: 7450001184193224684}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 1
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7450001184193224684
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: explotionMP3_4_{7450001184193224684}
+  m_AudioClip: {fileID: 8300000, guid: 35a394bbaa8e61242914255f4955db38, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8573922587715139279
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: explotionMP3_1_{8573922587715139279}
+  m_AudioClip: {fileID: 8300000, guid: 12875791c1c20b14b8e4fd24a467be7c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

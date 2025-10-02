@@ -1,0 +1,32 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Cell_Class">
+			<method name="Click"/>
+			<method name="RigthClick"/>
+		</type>
+		<type fullname="Flag_Class">
+			<method name="Deactivater"/>
+		</type>
+		<type fullname="GameManager_Script">
+			<method name="Pause"/>
+		</type>
+		<type fullname="UpdateCells_Script">
+			<method name="NewGame"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro" ignoreIfMissing="1">
+		<type fullname="TMPro.TMP_InputField">
+			<method name="set_text"/>
+			<method name="set_text"/>
+			<method name="set_text"/>
+			<method name="set_text"/>
+			<method name="set_text"/>
+			<method name="set_text"/>
+		</type>
+		<type fullname="TMPro.TMP_Text">
+			<method name="set_text"/>
+			<method name="set_text"/>
+			<method name="set_text"/>
+		</type>
+	</assembly>
+</linker>
